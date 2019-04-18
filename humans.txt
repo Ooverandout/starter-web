@@ -7,7 +7,7 @@ Adam, Adam and 3 more Adams
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+TO ME FOR DOING IT
     <name>
 
 # TECHNOLOGY COLOPHON
