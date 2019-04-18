@@ -3,6 +3,7 @@
 
 # TEAM
 
+Adam, Adam and 3 more Adams
     <name> -- <role> -- <twitter>
 
 # THANKS
