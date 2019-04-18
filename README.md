@@ -7,4 +7,9 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Addition
-Just to see how hashtags work
+Just top see how hashtags work
+
+## Just to see
+How dif works
+
+This will be in rep but not in staging
